@@ -43,8 +43,6 @@
 | _Nombre_  | _Descripción_  | _Tipo_ |
 | | |
 
-
-
 |  Caso de Uso CU | Proporcionar Datos Personales |
 |---|---|
 | Fuentes | _Documentos de especificaciones del sistema de registro de clientes._ |
@@ -55,9 +53,8 @@
 | Post-condiciones | _El cliente ha registrado sus datos personales en el sistema._ |
 | Requerimientos | _Acceso al sistema, conexión a internet._ |
 | Notas | _El cliente debe completar todos los campos obligatorios._ |
-| Autor | _[Nombre del autor]_ |
-| Fecha | _[Fecha de la especificación]_ |
-
+| Autor | _HectorPoleo_ |
+| Fecha | _18/11/2024_ |
 
 |  Caso de Uso CU | Registrar al Cliente |
 |---|---|
@@ -69,9 +66,8 @@
 | Post-condiciones | _El cliente está registrado en el sistema y puede realizar transacciones._ |
 | Requerimientos | _Sistema de base de datos de clientes._ |
 | Notas | _El sistema debe verificar que no haya registros duplicados._ |
-| Autor | _[Nombre del autor]_ |
-| Fecha | _[Fecha de la especificación]_ |
-
+| Autor | _HectorPoleo_ |
+| Fecha | _18/11/2024_ |
 
 |  Caso de Uso CU | Alquilar una Película |
 |---|---|
@@ -83,9 +79,8 @@
 | Post-condiciones | _El cliente tiene un alquiler activo registrado en el sistema._ |
 | Requerimientos | _Sistema de gestión de alquileres._ |
 | Notas | _La película debe estar disponible para alquiler antes de que el cliente pueda alquilarla._ |
-| Autor | _[Nombre del autor]_ |
-| Fecha | _[Fecha de la especificación]_ |
-
+| Autor | _HectorPoleo_ |
+| Fecha | _18/11/2024_ |
 
 |  Caso de Uso CU | Reservar una Película |
 |---|---|
@@ -97,8 +92,8 @@
 | Post-condiciones | _El sistema registra la reserva de la película para el cliente._ |
 | Requerimientos | _Sistema de gestión de reservas._ |
 | Notas | _El cliente debe recoger la película dentro del plazo establecido._ |
-| Autor | _[Nombre del autor]_ |
-| Fecha | _[Fecha de la especificación]_ |
+| Autor | _HectorPoleo_ |
+| Fecha | _18/11/2024_ |
 
 
 |  Caso de Uso CU | Abastecer Películas según sus Existencias |
@@ -111,9 +106,8 @@
 | Post-condiciones | _El inventario de películas está actualizado con las nuevas existencias._ |
 | Requerimientos | _Acceso al inventario, conexión a proveedores._ |
 | Notas | _El sistema debe alertar al proveedor cuando una película esté baja en existencias._ |
-| Autor | _[Nombre del autor]_ |
-| Fecha | _[Fecha de la especificación]_ |
-
+| Autor | _HectorPoleo_ |
+| Fecha | _18/11/2024_ |
 
 |  Caso de Uso CU | Registrar el Alquiler de la Película |
 |---|---|
@@ -125,8 +119,8 @@
 | Post-condiciones | _El alquiler de la película se ha registrado en el sistema._ |
 | Requerimientos | _Sistema de gestión de alquileres._ |
 | Notas | _El alquiler debe incluir un plazo de devolución y una posible tarifa._ |
-| Autor | _[Nombre del autor]_ |
-| Fecha | _[Fecha de la especificación]_ |
+| Autor | _HectorPoleo_ |
+| Fecha | _18/11/2024_ |
 
 |  Caso de Uso CU | Registrar la Reserva de la Película |
 |---|---|
@@ -138,8 +132,8 @@
 | Post-condiciones | _La reserva ha sido registrada en el sistema._ |
 | Requerimientos | _Sistema de gestión de reservas._ |
 | Notas | _El cliente debe recoger la película dentro de un plazo establecido._ |
-| Autor | _[Nombre del autor]_ |
-| Fecha | _[Fecha de la especificación]_ |
+| Autor | _HectorPoleo_ |
+| Fecha | _18/11/2024_ |
 
 
 |  Caso de Uso CU | Registrar la Película Re-abastecida |
@@ -152,6 +146,5 @@
 | Post-condiciones | _El inventario ha sido actualizado con las películas re-abastecidas._ |
 | Requerimientos | _Sistema de gestión de inventarios._ |
 | Notas | _El sistema debe reflejar las películas re-abastecidas en tiempo real._ |
-| Autor | _[Nombre del autor]_ |
-| Fecha | _[Fecha de la especificación]_ |
-
+| Autor | _HectorPoleo_ |
+| Fecha | _18/11/2024_ |
