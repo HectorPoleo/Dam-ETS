@@ -2,7 +2,7 @@ package es.ies.puerto.hotel;
 import java.util.Date;
 import java.util.Objects;
 /**
- * @author alexfdb
+ * @author HectorPoleo
  * @version 1.0.0
  */
 public class Reserva {
