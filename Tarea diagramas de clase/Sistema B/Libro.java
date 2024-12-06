@@ -1,7 +1,7 @@
 package es.ies.puerto.biblioteca_a;
 import java.util.Objects;
 /**
- * @author alexfdb
+ * @author HectorPoleo
  * @version 1.0.0
  */
 public class Libro {
