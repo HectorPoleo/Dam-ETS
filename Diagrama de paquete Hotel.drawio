@@ -1,0 +1,57 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0 (Edition std-2)" version="26.0.6">
+  <diagram name="Página-1" id="MuPpstHNe1cEr_jQYMLt">
+    <mxGraphModel dx="1391" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LiQK9k3YCBzlnFnu33H6-5" value="" style="shape=folder;fontStyle=1;tabWidth=320;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="50" y="130" width="610" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="LiQK9k3YCBzlnFnu33H6-6" value="&lt;b&gt;es.HectorPoleoOlmo.Sistema de reserva de hoteles&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="130" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LiQK9k3YCBzlnFnu33H6-7" value="&lt;b&gt;Sistema de reserva de hoteles.view&lt;/b&gt;" style="shape=folder;fontStyle=1;tabWidth=150;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="190" y="200" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LiQK9k3YCBzlnFnu33H6-8" value="Contiene todo lo relacionado con el aspecto de la página de reservas" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;" vertex="1" parent="LiQK9k3YCBzlnFnu33H6-7">
+          <mxGeometry width="270" height="98" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LiQK9k3YCBzlnFnu33H6-9" value="&lt;b&gt;Sistema de reserva de hoteles.controller&lt;/b&gt;" style="shape=folder;fontStyle=1;tabWidth=150;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="190" y="390" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LiQK9k3YCBzlnFnu33H6-10" value="Contiene todo lo relacionado a los controladores" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;" vertex="1" parent="LiQK9k3YCBzlnFnu33H6-9">
+          <mxGeometry width="270" height="98" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LiQK9k3YCBzlnFnu33H6-11" value="&lt;b&gt;Sistema de reserva de hoteles.model&lt;/b&gt;" style="shape=folder;fontStyle=1;tabWidth=150;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="190" y="585" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LiQK9k3YCBzlnFnu33H6-12" value="Contiene todo lo relacionado a los modelos" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;" vertex="1" parent="LiQK9k3YCBzlnFnu33H6-11">
+          <mxGeometry width="270" height="98" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LiQK9k3YCBzlnFnu33H6-13" value="&lt;b&gt;Sistema de reserva de hoteles.config&lt;/b&gt;" style="shape=folder;fontStyle=1;tabWidth=150;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="190" y="790" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LiQK9k3YCBzlnFnu33H6-14" value="Contiene todo lo relacionado a las configuraciones" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;" vertex="1" parent="LiQK9k3YCBzlnFnu33H6-13">
+          <mxGeometry width="270" height="98" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LiQK9k3YCBzlnFnu33H6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="LiQK9k3YCBzlnFnu33H6-13" target="LiQK9k3YCBzlnFnu33H6-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiQK9k3YCBzlnFnu33H6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="LiQK9k3YCBzlnFnu33H6-11" target="LiQK9k3YCBzlnFnu33H6-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LiQK9k3YCBzlnFnu33H6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="LiQK9k3YCBzlnFnu33H6-7" target="LiQK9k3YCBzlnFnu33H6-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
